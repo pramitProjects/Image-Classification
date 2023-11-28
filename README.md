@@ -1,1 +1,1 @@
-# Image-Classification
+For this project I have worked with the MNIST dataset and CIFAR-10 dataset. In the first part, I worked with the PnumoniaMNIST datset. I have created 8 different datsets from it by using PCA and compared the performance of 8 different logistic regression classifier on them. The task is to detect signs of pneumonia from chest X-ray. In the second part, I have worked with the FashionMNIST dataset. I have trained and compared different fully connected neural networks and convolutional neural networks (CNNs) to classify the images (trouser, pullover,etc).
